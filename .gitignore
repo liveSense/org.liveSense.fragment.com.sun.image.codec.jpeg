@@ -1,7 +1,7 @@
-target/*
 .svn
-/.classpath
-/.gitignore
-/.project
-/nbactions.xml
+/target/*
+/war/*
 /.settings
+/.project
+/.classpath
+/nbactions.xml
