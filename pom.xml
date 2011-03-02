@@ -6,13 +6,13 @@
       <version>1-SNAPSHOT</version>
   </parent>
   <scm>
-      <connection>scm:git:git://github.com/liveSense/org.liveSense.image.codec.jpeg</connection>
-      <developerConnection>scm:git:git://github.com/liveSense/org.liveSense.image.codec.jpeg</developerConnection>
-      <url>https://github.com/liveSense/org.liveSense.image.codec.jpeg</url>
+      <connection>scm:git:git://github.com/liveSense/org.liveSense.misc.image.codec.jpeg.git</connection>
+      <developerConnection>scm:git:git://github.com/liveSense/org.liveSense.misc.image.codec.jpeg.git</developerConnection>
+      <url>https://github.com/liveSense/org.liveSense.misc.image.codec.jpeg</url>
   </scm>  
 
 
-    <artifactId>org.liveSense.image.codec.jpeg</artifactId>
+    <artifactId>org.liveSense.misc.image.codec.jpeg</artifactId>
     <groupId>org.liveSense</groupId>
     <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
