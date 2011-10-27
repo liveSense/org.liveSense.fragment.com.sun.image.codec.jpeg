@@ -11,7 +11,7 @@
       <url>https://github.com/liveSense/org.liveSense.misc.image.codec.jpeg</url>
   </scm>  
 
-    <artifactId>org.liveSense.misc.image.codec.jpeg</artifactId>
+    <artifactId>org.liveSense.fragment.com.sun.image.codec.jpeg</artifactId>
     <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>liveSense JPEG image codec extension</name>
