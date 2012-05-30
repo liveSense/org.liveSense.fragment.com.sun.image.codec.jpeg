@@ -14,7 +14,7 @@
     <artifactId>org.liveSense.fragment.com.sun.image.codec.jpeg</artifactId>
     <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>liveSense JPEG image codec extension</name>
+    <name>liveSense :: Extension :: Sun JPEG image codec extension</name>
 
     <description>
         This bundle extends the System Bundle export
