@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><features name="liveSense-${liveSense.version}-fragment-com-sun-image-codec-jpeg" xmlns="http://karaf.apache.org/xmlns/features/v1.0.0">
+	<feature name="liveSense-fragment-com-sun-image-codec-jpeg" version="${liveSense.fragment.com.sun.image.codec.jpeg.version}" description="liveSense fragment com sun image codec jpeg">
+		<bundle>mvn:com.github.livesense/org.liveSense.fragment.com.sun.image.codec.jpeg/${liveSense.fragment.com.sun.image.codec.jpeg.version}</bundle>
+	</feature>
+</features>
