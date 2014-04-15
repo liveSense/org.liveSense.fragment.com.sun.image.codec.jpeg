@@ -10,10 +10,11 @@
 		<connection>scm:git:https://github.com/liveSense/org.liveSense.fragment.com.sun.image.codec.jpeg.git</connection>
 		<developerConnection>scm:git:https://github.com/liveSense/org.liveSense.fragment.com.sun.image.codec.jpeg.git</developerConnection>
 		<url>https://github.com/liveSense/org.liveSense.fragment.com.sun.image.codec.jpeg</url>
-	</scm>
+	  <tag>1.0.3</tag>
+  </scm>
 
     <artifactId>org.liveSense.fragment.com.sun.image.codec.jpeg</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.3</version>
     <packaging>jar</packaging>
     <name>liveSense :: Extension :: Sun JPEG image codec extension</name>
 
